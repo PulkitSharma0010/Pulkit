@@ -1,0 +1,9 @@
+.projectsDiv{
+    width: 100%;
+    min-height: 90vh;
+    margin-bottom: 4rem;
+}
+.projectsMainHeading{
+    color: #9d4edd;
+    /* text-decoration: underline; */
+}

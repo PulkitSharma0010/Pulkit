@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+.homeDiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 90vh;
+    font-family: 'Francois One', sans-serif;
+}
+.homeSpan{
+    color: #9d4edd;
+}
+.homeCVButton{
+    text-decoration: none;
+    color: #9d4edd;
+    border: 1px solid #9d4edd;
+    background-color: white;
+    font-family: 'Francois One', sans-serif;
+    width: fit-content;
+    height: fit-content;
+    padding: 0.5rem;
+    font-size: 20px;
+}
+.homeCVButton:hover{
+    background-color: #9d4edd;
+    color: white;
+    cursor: pointer;
+}
+.homeContentDiv{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.homeHeading{
+    text-align: left;
+    font-size: 50px;
+}
+.homeIntro{
+    text-align: left;
+    font-size: 40px;
+}
+.homeImgDiv{
+    width: 50%;
+    height: 100%;
+}
+.homeImgDiv>img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}

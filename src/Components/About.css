@@ -1,0 +1,48 @@
+.aboutDiv{
+    width: 100%;
+    min-height: 90vh;
+    font-family: 'Francois One', sans-serif;
+}
+.aboutMainHeading{
+    color: #9d4edd;
+    /* text-decoration: underline; */
+}
+.aboutContentDiv{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.aboutSkillsDiv{
+    display: flex;
+    justify-content: space-between;
+}
+.aboutList{
+    list-style: none;
+    width: fit-content;
+    margin:auto ;
+    padding: 0;
+}
+.aboutListItems{
+    text-align: left;
+}
+.aboutHeading{
+    color: #9d4edd;
+}
+.aboutSubDiv{
+    width: 50%;
+    padding-right: 2rem;
+}
+.aboutSubImgDiv{
+    width: 50%;
+}
+.aboutSubImgDiv>img{
+    width: 100%;
+    height: 90vh;
+    object-fit: contain;
+}
+.aboutExperience{
+    text-align: justify;
+}
+.aboutSubHeading{
+    text-align: left;
+}

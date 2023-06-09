@@ -1,0 +1,28 @@
+.contactDiv{    
+    width: 100%;
+    height: fit-content;
+}
+.constactMainHeading{
+    color: #9d4edd;
+    /* text-decoration: underline; */
+}
+.contactInfo{
+    display: inline-block;
+    width: fit-content;
+}
+.socialLinksSpan{
+    display: inline-block;
+    height: 3rem;
+    width: 3rem;
+    margin: 1rem;
+}
+.socialLinksSpan>a{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+.socialLinksSpan>a>img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}

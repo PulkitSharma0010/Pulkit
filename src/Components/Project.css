@@ -1,0 +1,32 @@
+.projectDiv{
+    border: 1px solid #9d4edd;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    margin-top: 2rem ;
+    margin-bottom: 2rem;
+}
+.projectImgSubDiv{
+    width: 30%;
+    padding: 1rem;
+}
+.projectImgSubDiv>img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.projectSubDiv{
+    width: 70%;
+    border-left: 1px solid #9d4edd;
+    padding: 1rem;
+}
+.projectTitle{
+    text-align: left;
+    color: #9d4edd;
+}
+.projectStack{
+    text-align: left;
+}
+.projectDescription{
+    text-align: left;
+}
