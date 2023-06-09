@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Pulkit/static/css/main.7ce73653.css",
+    "main.js": "/Pulkit/static/js/main.5f485acf.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Pulkit/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Resume.pdf": "/Pulkit/static/media/Resume.6da6e8e0f4d963a6ec36.pdf",
+    "static/media/webdev.png": "/Pulkit/static/media/webdev.0e75659e2a3f6fccb02a.png",
+    "static/media/tictactoe.png": "/Pulkit/static/media/tictactoe.f16da1652fa9b61379d7.png",
+    "static/media/github.png": "/Pulkit/static/media/github.162304e5516d083fab06.png",
+    "index.html": "/Pulkit/index.html",
+    "main.7ce73653.css.map": "/Pulkit/static/css/main.7ce73653.css.map",
+    "main.5f485acf.js.map": "/Pulkit/static/js/main.5f485acf.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Pulkit/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ce73653.css",
+    "static/js/main.5f485acf.js"
+  ]
+}
