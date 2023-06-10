@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pulkit/static/css/main.7ce73653.css",
-    "main.js": "/Pulkit/static/js/main.a2032027.js",
+    "main.css": "/Pulkit/static/css/main.7f5fd969.css",
+    "main.js": "/Pulkit/static/js/main.ff0a6d58.js",
     "static/js/787.1ed0c42c.chunk.js": "/Pulkit/static/js/787.1ed0c42c.chunk.js",
     "static/media/Resume.pdf": "/Pulkit/static/media/Resume.6da6e8e0f4d963a6ec36.pdf",
     "static/media/about.png": "/Pulkit/static/media/about.736476f99af64bf06e9a.png",
@@ -9,12 +9,12 @@
     "static/media/tictactoe.png": "/Pulkit/static/media/tictactoe.f16da1652fa9b61379d7.png",
     "static/media/github.png": "/Pulkit/static/media/github.162304e5516d083fab06.png",
     "index.html": "/Pulkit/index.html",
-    "main.7ce73653.css.map": "/Pulkit/static/css/main.7ce73653.css.map",
-    "main.a2032027.js.map": "/Pulkit/static/js/main.a2032027.js.map",
+    "main.7f5fd969.css.map": "/Pulkit/static/css/main.7f5fd969.css.map",
+    "main.ff0a6d58.js.map": "/Pulkit/static/js/main.ff0a6d58.js.map",
     "787.1ed0c42c.chunk.js.map": "/Pulkit/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ce73653.css",
-    "static/js/main.a2032027.js"
+    "static/css/main.7f5fd969.css",
+    "static/js/main.ff0a6d58.js"
   ]
 }
