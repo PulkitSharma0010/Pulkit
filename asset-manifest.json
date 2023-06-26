@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/Pulkit/static/css/main.2d4c1f08.css",
-    "main.js": "/Pulkit/static/js/main.0cf80bfd.js",
+    "main.css": "/Pulkit/static/css/main.7ebf3821.css",
+    "main.js": "/Pulkit/static/js/main.3e58232c.js",
     "static/js/787.1ed0c42c.chunk.js": "/Pulkit/static/js/787.1ed0c42c.chunk.js",
     "static/media/Resume.pdf": "/Pulkit/static/media/Resume.5ca4f951ab39fcd08527.pdf",
     "static/media/about.png": "/Pulkit/static/media/about.736476f99af64bf06e9a.png",
     "static/media/webdev.png": "/Pulkit/static/media/webdev.0e75659e2a3f6fccb02a.png",
+    "static/media/himparivar.png": "/Pulkit/static/media/himparivar.9e904890582497cfc64c.png",
     "static/media/tictactoe.png": "/Pulkit/static/media/tictactoe.f16da1652fa9b61379d7.png",
     "static/media/github.png": "/Pulkit/static/media/github.162304e5516d083fab06.png",
     "index.html": "/Pulkit/index.html",
-    "main.2d4c1f08.css.map": "/Pulkit/static/css/main.2d4c1f08.css.map",
-    "main.0cf80bfd.js.map": "/Pulkit/static/js/main.0cf80bfd.js.map",
+    "main.7ebf3821.css.map": "/Pulkit/static/css/main.7ebf3821.css.map",
+    "main.3e58232c.js.map": "/Pulkit/static/js/main.3e58232c.js.map",
     "787.1ed0c42c.chunk.js.map": "/Pulkit/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d4c1f08.css",
-    "static/js/main.0cf80bfd.js"
+    "static/css/main.7ebf3821.css",
+    "static/js/main.3e58232c.js"
   ]
 }
